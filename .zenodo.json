@@ -1,0 +1,23 @@
+{
+  "title": "awesome-turkish-ai-security",
+  "description": "A curated list of Turkish AI/LLM security resources.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "awesome list",
+    "Turkish",
+    "yapay zeka"
+  ],
+  "license": "CC0-1.0",
+  "upload_type": "other",
+  "access_right": "open"
+}
