@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="awesome-turkish-ai-security" width="100%"></p>
+
 # awesome-turkish-ai-security
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
