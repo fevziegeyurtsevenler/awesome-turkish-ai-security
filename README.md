@@ -75,7 +75,7 @@ LLM/ajan güvenliği için kullanılabilir araçlar. Türkçe'yi doğrudan deste
 Türkçe içeren veya Türkçe modellerin güvenlik değerlendirmesinde kullanılabilen açık veri setleri.
 
 - **[prompt-injection-corpus](https://github.com/fevziegeyurtsevenler/prompt-injection-corpus)** 🇹🇷 — Türkçe/İngilizce prompt injection + jailbreak ↔ savunma çiftleri; OWASP/ATLAS etiketli.
-- **[MLSUM (Türkçe)](https://huggingface.co/datasets/mlsum)** — Çok dilli özetleme veri seti; Türkçe alt kümesi, model çıktı/halüsinasyon değerlendirmesi için kullanılır.
+- **[MLSUM (Türkçe)](https://huggingface.co/datasets/GEM/mlsum)** — Çok dilli özetleme veri seti; Türkçe alt kümesi, model çıktı/halüsinasyon değerlendirmesi için kullanılır.
 - **[ytu-ce-cosmos veri setleri](https://huggingface.co/ytu-ce-cosmos)** — YTÜ Cosmos ekibinin guardrail, PII ve sınıflandırma odaklı Türkçe veri setleri (koleksiyonda 11 veri seti listeleniyor).
 
 > Türkçe jailbreak/injection, toksisite veya PII değerlendirme veri seti biliyorsanız katkı çok değerli — bu, Türkçe YZ güvenliğinin en zayıf halkalarından biri.
@@ -98,13 +98,13 @@ Türkçe YZ/LLM güvenliği öğrenme kaynakları.
 - **[llm-security-skills](https://github.com/fevziegeyurtsevenler/llm-security-skills)** 🇹🇷 — Uygulamalı OWASP LLM Top 10 denetimi, prompt-injection testi, MCP/RAG incelemesi için Türkçe+İngilizce Agent Skill'ler.
 - **[OWASP GenAI Security Project — kaynaklar](https://genai.owasp.org/resources/)** — LLM Top 10, tehdit avı ve güvenli dağıtım rehberleri (İngilizce; Türkçe çeviri çalışmaları topluluk tarafından sürüyor).
 - **[BTK Akademi](https://www.btkakademi.gov.tr/)** — Bilgi Teknolojileri ve İletişim Kurumu'nun ücretsiz Türkçe siber güvenlik ve yapay zeka kursları.
-- **[MITRE ATLAS — Case Studies](https://atlas.mitre.org/studies)** — Gerçek YZ saldırılarının adım adım vaka analizleri; Türkçe senaryo tasarlarken sağlam bir referans.
+- **[MITRE ATLAS](https://atlas.mitre.org/)** — Gerçek YZ saldırılarının adım adım vaka analizleri; Türkçe senaryo tasarlarken sağlam bir referans.
 
 ## Topluluk ve etkinlikler
 
 Türkiye'deki güvenlik ve YZ topluluk buluşmaları.
 
-- **[NOPcon](https://nopcon.org/)** — İstanbul merkezli bağımsız hacker/güvenlik konferansı; teknik sunumlar ve topluluk odaklı içerik.
+- ****NOPcon**** — İstanbul merkezli bağımsız hacker/güvenlik konferansı; teknik sunumlar ve topluluk odaklı içerik.
 - **[OWASP Türkiye / İstanbul Chapter](https://owasp.org/chapters/)** — OWASP'ın yerel bölümü; uygulama ve YZ güvenliği etkinlikleri.
 - **[BGA — Bilgi Güvenliği AKADEMİSİ](https://www.bgasecurity.com/)** — ISTSEC gibi Türkçe güvenlik konferans/etkinliklerinin ve eğitimlerinin düzenleyicisi.
 - **Türkçe NLP/YZ toplulukları** — Yerli modelleri geliştiren ve tartışan aktif Hugging Face organizasyonları: [VNGRS](https://huggingface.co/vngrs-ai), [Boğaziçi TABILAB](https://huggingface.co/boun-tabi-LMG), [YTÜ Cosmos](https://huggingface.co/ytu-ce-cosmos).
