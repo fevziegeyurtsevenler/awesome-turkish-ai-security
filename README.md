@@ -141,3 +141,21 @@ Katkılar memnuniyetle karşılanır. Lütfen önce [CONTRIBUTING.md](CONTRIBUTI
 Bu çalışma [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) ile kamu malına ithaf edilmiştir. Yasaların izin verdiği ölçüde, bakımcı tüm telif haklarından feragat etmiştir. Serbestçe kopyalayın, değiştirin, dağıtın — atıf zorunlu değildir ama takdir edilir.
 
 _Derleyen ve bakımını yapan: [Fevzi Ege Yurtsevenler](https://github.com/fevziegeyurtsevenler) — çok dilli LLM/YZ güvenliği araştırmacısı, OWASP GenAI Security Project katkı sunucusu._
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [AI Security Öğrenme Rehberi — Sıfırdan Uzmanlığa](https://altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_awesome_turkish_ai_security_2026,
+  author = {{AltaySec}},
+  title  = {awesome-turkish-ai-security},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/awesome-turkish-ai-security}
+}
+```
