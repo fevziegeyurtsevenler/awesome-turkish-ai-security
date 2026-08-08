@@ -1,3 +1,5 @@
+> 📌 **Kanonik liste / Canonical list:** [awesome-ai-security-tr](https://github.com/fevziegeyurtsevenler/awesome-ai-security-tr) — Türkçe açıklamalı, CI ile doğrulanan güncel sürüm. Bu repo özet niteliğindedir.
+
 <p align="center"><img src="assets/banner.svg" alt="awesome-turkish-ai-security" width="100%"></p>
 
 # awesome-turkish-ai-security
